@@ -1,4 +1,4 @@
-# SecureDoc / TrustVault: Trustworthy Document Workspace
+# DocTrust: Trustworthy Document Workspace
 
 [![IMPACT 2026](https://img.shields.io/badge/Challenge-02%20Hard%20Mode-blue)](file:///C:/Users/HP%20PC/OneDrive/Desktop/secure_doc)
 [![Status](https://img.shields.io/badge/Status-Fully%20Operational-brightgreen)](file:///C:/Users/HP%20PC/OneDrive/Desktop/secure_doc)
